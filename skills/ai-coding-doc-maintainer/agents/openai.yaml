@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI Docs Maintainer"
+  short_description: "Keep docs + progress logs in sync with code zones"
+  default_prompt: "Use $skill-name-here when implementing or modifying repo functionality and you need docs/progress to stay bound to code changes."
+policy:
+  allow_implicit_invocation: true

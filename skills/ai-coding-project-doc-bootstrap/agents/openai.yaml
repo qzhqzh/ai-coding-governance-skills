@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI Project Docs Bootstrap"
+  short_description: "Scaffold docs/invariants/interfaces/progress + context map"
+  default_prompt: "Use $skill-name-here to initialize minimal docs governance (architecture/invariants/interfaces/ADR/progress) and context-map for future AI coding."
+policy:
+  allow_implicit_invocation: true

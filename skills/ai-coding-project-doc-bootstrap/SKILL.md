@@ -3,6 +3,9 @@ name: ai-coding-project-doc-bootstrap
 description: "Initialize governance docs + progress logs for AI coding projects after a plan/architecture decision; create docs skeleton, invariants/interfaces/ADR placeholders, and context-map for directory-based governance."
 ---
 
+# Notes
+This Codex skill follows the portable workflow in `portable/PLAYBOOK.md`.
+
 # AI Coding Project Doc Bootstrap
 
 Use this skill when:

@@ -3,6 +3,9 @@ name: ai-coding-doc-maintainer
 description: "Maintain governance docs + progress logs on subsequent AI coding changes using directory-based zones; write vertical slice progress entries and keep docs in sync with code."
 ---
 
+# Notes
+This Codex skill follows the portable workflow in `portable/PLAYBOOK.md`.
+
 # AI Coding Docs Maintainer
 
 Use this skill when:
